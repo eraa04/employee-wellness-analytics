@@ -1,0 +1,11 @@
+"id","first_name","last_name","birthdate","gender","race","department","jobtitle","location","hire_date","termdate","location_city","location_state","remote_work","work_hours","sleep_hours","stress_level","job_satisfaction","manager_support","burnout_risk","productivity_score"
+"EMP-10000","Sophia","Taylor",NULL,"Female","White","HR","Manager","Remote",NULL,NULL,"Flint","California","Yes","8.54","8.42",3,8,3,"Low",80
+"EMP-10001","Emma","Johnson",NULL,"Female","Two or More Races","Sales","Engineer","Branch Office",NULL,NULL,"Austin","Ohio","No","8.67","7.60",4,6,4,"Low",67
+"EMP-10002","Ethan","Brown",NULL,"Female","Asian","Marketing","Specialist","Headquarters",NULL,NULL,"Albany","New York","No","10.76","6.78",7,4,6,"Medium",48
+"EMP-10003","Olivia","Sharma",NULL,"Male","White","Product","Coordinator","Branch Office","2008-10-26",NULL,"San Jose","Ohio","No","9.18","7.40",5,6,7,"Low",61
+"EMP-10004","Sophia","Smith","1999-12-31","Male","Asian","Operations","Coordinator","Remote","2009-04-13",NULL,"San Jose","Texas","Yes","8.25","7.33",4,6,9,"Low",60
+"EMP-10005","Logan","Patel",NULL,"Female","Asian","Finance","Specialist","Headquarters",NULL,NULL,"Albany","Florida","No","8.38","5.41",6,4,6,"Medium",55
+"EMP-10006","Noah","Smith",NULL,"Female","White","Operations","Engineer","Branch Office",NULL,NULL,"Austin","Florida","No","7.64","7.20",3,9,6,"Low",79
+"EMP-10007","Sophia","Williams","1976-09-21","Male","Hispanic or Latino","Support","Manager","Remote",NULL,NULL,"Tampa","California","Yes","7.84","7.90",3,8,6,"Low",69
+"EMP-10008","Ethan","Smith",NULL,"Male","White","Support","Specialist","Headquarters","2020-06-19",NULL,"Flint","Ohio","No","9.59","5.75",7,4,10,"Medium",44
+"EMP-10009","Olivia","Sharma",NULL,"Male","Black or African American","Operations","Specialist","Branch Office",NULL,NULL,"Austin","Texas","No","7.91","4.81",6,4,9,"High",45
