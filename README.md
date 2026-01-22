@@ -104,14 +104,11 @@ Built a **5-page interactive dashboard**:
 
 ## Dashboard Preview
 
-<img width="1298" height="723" alt="Wellness Overview" src="https://github.com/user-attachments/assets/96641851-aab5-4635-a101-f3135f78d996" />
-<img width="1292" height="725" alt="Burnout Risk Analysis" src="https://github.com/user-attachments/assets/9681f3e0-c918-40b0-be12-2504196220b0" />
-<img width="1299" height="710" alt="Stress VS Productivity" src="https://github.com/user-attachments/assets/e38730be-a821-4a09-bbaa-b8906856663a" />
-<img width="1301" height="727" alt="Manaager Impact" src="https://github.com/user-attachments/assets/512f9927-6a85-4233-80c9-03837239033d" />
-<img width="1302" height="737" alt="Department Comparison" src="https://github.com/user-attachments/assets/3e6caac8-0de2-4f6a-85a7-def6871e254e" />
-
-
-
+https://github.com/eraa04/employee-wellness-analytics/blob/main/screenshots/Wellness%20Overview.png?raw=true
+https://github.com/eraa04/employee-wellness-analytics/blob/main/screenshots/Burnout%20Risk%20Analysis.png?raw=true
+https://github.com/eraa04/employee-wellness-analytics/blob/main/screenshots/Stress%20VS%20Productivity.png?raw=true
+https://github.com/eraa04/employee-wellness-analytics/blob/main/screenshots/Manaager%20Impact.png?raw=true
+https://github.com/eraa04/employee-wellness-analytics/blob/main/screenshots/Manaager%20Impact.png?raw=true
 
 
 ---
